@@ -93,7 +93,7 @@ bgttt : sangat
 bgttt : sangat
 bhw : bahwa
 bikin : membuat
-bikininsmembuatkan
+bikinin : membuatkan
 bilek  : kecewa
 bjir : kecewa
 bjirr : kaget
@@ -623,7 +623,8 @@ ssbenernya : sebenarnya
 stuju : setuju
 swatsa : swasta
 sy : saya
-taek : kesaltaii : kecewa
+taek : kesal
+taii : kecewa
 taksol : taksi online
 targetin : menargetkan
 taun : tahun
