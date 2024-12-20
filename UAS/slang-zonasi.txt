@@ -64,6 +64,7 @@ bajingan : kesal
 balikin : kembalikan
 bangeeet : sangat
 bangke : kesal
+bangku : kursi
 bangsat : kesal
 banyakan : banyak
 bareng : bersama
