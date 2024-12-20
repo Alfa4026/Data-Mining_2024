@@ -638,7 +638,7 @@ temen : teman
 tendik : tenaga pendidik
 tenkes : tenaga kesehatan
 ttp : tetap
-terapin : menerapkan
+terapin : implementasi
 terkoplak : lucu
 ternyta : ternyata
 tgl : tanggal
