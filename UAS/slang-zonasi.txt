@@ -1,10 +1,8 @@
-
 abis : habis
 abs : asal bapak senang
 adalagi : ada lagi
 adanua : ada nya
 ade : adik
-
 adek  : adik
 adekku : adik saya
 adikku : adik saya
@@ -13,14 +11,11 @@ ahahaha : tertawa
 ahir : akhir
 aing : saya
 aj : saja
-
 ajaa : saja
 ajaloh : saja
 ajgg : kesal
 ajggg : kesal
 ak : aku
-
-ak : saya
 akhhhh : kesal
 akre : akreditasi
 aksel : akselerasi
@@ -47,22 +42,17 @@ ansos : anti sosial
 anter : mengantarkan
 anying : kesal
 apaa : apa
-
 ape  :  apa
 apes : sial
 aplgi : terlebih lagi
 apus : hapus
-
 apusin : hapuskan
 asbun : asal bunyi
 aslam : asam lambung
 aspd : asesmen standar pendidikan daerah
 asyik : asik
-
 atao : atau
-
 ati : hati
-
 ats : anak tidak sekolah
 aware : perhatian
 babi : kesal
@@ -105,22 +95,14 @@ bhw : bahwa
 bikin : membuat
 bikininsmembuatkan
 bilek  : kecewa
-
-
 bjir : kecewa
-
 bjirr : kaget
-
 bkn : bukan
-
 blg : bilang
-
 blio : beliau
 bloon : bodoh
 bner : benar
 bngt : sangat
-bngt : sangat
-
 bnr : benar
 bnyak : banyak
 bnyk : banyak
@@ -128,21 +110,15 @@ bodo : bodoh
 bolak : kembali
 brngkt : berangkat
 bsa : bisa
-
 btul  : benar
-
 btull : betul
 buanyak : banyak
 budheku : bibi saya
 burui : buruk
 buset : kaget
-
 bwat : buat
-
 cape : lelah
-
 capek : lelah
-
 ceritain : cerita
 cmiiw : koreksi saya
 cpd : calon peserta didik
@@ -167,7 +143,6 @@ didahuluin : didahulukan
 didatengin : didatangkan
 dideket : di dekat
 dihapus : hapus
-
 dijaman : di zaman
 dikit : sedikit
 dikurangin : dikurangin
@@ -179,7 +154,7 @@ dinaikin : dinaikan
 diomongin : dibicarakan
 diotak : diubah
 dipengenin : diinginkan
-dipesantrenj : di pesantren
+dipesantren : di pesantren
 diribetin : disulitkan
 disamaain : disamakan
 disdik : dinas pendidikan
@@ -193,24 +168,16 @@ dititipin : dititipkan
 ditrima : diterima
 diupdate  : diperbarui
 dket : dekat
-
 dl : dulu
-
 didIm : dalam
-
 dlu : dulu
-
 dmn : dimana
 dpt : dapat
-
 dr : dari
-
 drdulu : dari dulu
-
 dri  : dari
 dripada : daripada
 dy : dia
-
 eek : kesal
 ehehe : tertawa
 ehehhehehe : tertawa
@@ -236,14 +203,13 @@ gajelasani : tidak jelas
 gajetot : tidak jelas
 gakada : tidak ada
 gamasuk : tidak masuk
-gamaurtidak mau
+gamau : tidak mau
 gampang : mudah
 gausa : tidak perlu
 gawe : buat
 gawe : kerja
 gbkl : tidak akan
 gebleg : kesal
-gede : besar
 gede : besar
 gedean : lebih besar
 gedek : kesal
@@ -259,13 +225,11 @@ gitu : seperti itu
 gjls : tidak jelas
 gmna : bagaimana
 gni : seperti ini
-gni : seperti ini
 goals : tujuan
 goblog : bodoh
 goblok : bodoh
 gonta : mengubah
 gpp : tidak masalah
-gra : gara gara
 gra : gara gara
 greget : kesal
 grgr : gara gara
@@ -317,14 +281,10 @@ jgnkannpencari : jangan kan pencari
 jirr : kaget
 jir : kaget
 jkw : jokowi
-
 jl : jalan
-
 jls : jelas
-
 jml : jumlah
 jpg : jepang
-
 jrk : jarak
 jubel : sekolah asrama
 kab : kabupaten
@@ -369,7 +329,6 @@ kirian : mengira
 kjp : kartu jakarta pintar
 kk : kartu keluarga
 kkn : curang
-
 kl : kalau
 klrga : keluarga
 klw : kalau
@@ -377,29 +336,25 @@ knpa : mengapa
 kocag : lucu
 kocak : lucu
 kontol : kecewa
-kouta : kuotakpnpun : kapan saja
+kouta : kuota
+kpnpun : kapan saja
 krn : karena
 krna : karena
-
 kta : kata
-
-ktpnya : kartu tanda penduduk
+ktpnya : kartu tanda penduduk nya
 kudu : harus
 kuotanya : kuota
 kurikulume : kurikulum
 ky  : seperti
 kyny : seperti nya
 kys : kecewa
-
 laen : lain
-
 lagii : lagi
 lamaku : lama ku
-Ibih : lebih
-
+lbih : lebih
 lebi : lebih
-Igsg : langsung
-loker : jlowongan kerja
+lgsg : langsung
+loker : lowongan kerja
 lol : tertawa
 maafin : maaf
 makanyaaa : maka nya
@@ -410,7 +365,7 @@ mangkas : memotong
 mantri : menteri
 manyun : kesal
 masi : masih
-mastiinmemastikan
+mastiin : memastikan
 masui : masuk
 masukin : masuk
 masuknya : masuk
@@ -426,17 +381,13 @@ merubah : mengubah
 mess : kacau
 mesti : harus
 metri : menteri
-mgk,mungkin
+mgk : mungkin
 mgkin : mungkin
 mikirin : pikiran
 mindahnya : memindahkan nya
 mke : pakai
-
 mlg : malang
 mlh : malah
-
-mih : malah
-
 mls : malas
 mmg : memang
 mna : dimana
@@ -454,7 +405,6 @@ mudorotnya : keburukannya
 mulu : selalu
 mungjin : mungkin
 mw : mau
-
 mz : mas
 nadiemmm : nadiem
 naek : naik
@@ -467,7 +417,7 @@ nasip : nasib
 nawarin : menawarkan
 neliti : meneliti
 nembus : menembus
-nerapin menerapkan
+nerapin : menerapkan
 nerapinsl : menerapkan
 nerusin : meneruskan
 ngakak : tertawa
@@ -483,9 +433,10 @@ ngatasin : mengatasi
 ngatur : mengatur
 ngebebanin : membebani
 ngebiarin : biar
-ngebuat: membuatngebul : berbohong
+ngebuat: membuat
+ngebul : berbohong
 ngedaftarin : mendaftarkan
-ngefilter: memilih
+ngefilter : memilih
 ngehalangin : menghalangi
 ngejar : kejar
 ngeliat : melihat
@@ -499,13 +450,10 @@ ngerusak : merusak
 ngeselin : menyebalkan
 ngetawain : tertawa
 ngide : ide
-
 ngikut : ikut
 ngikutin : mengikuti
 ngincar : incar
 ngitung : hitung
-ngk : tidak
-
 ngk : tidak
 nglarang : melarang
 ngobrol : berbincang
@@ -520,7 +468,6 @@ ngumpul : kumpul
 ngurusin : mengurus
 ngutang : berhutang
 nidurin : tidur
-
 nilaii : nilai
 ninggalin : meninggalkan
 niru : meniru
@@ -530,9 +477,7 @@ njir : kaget
 nopo : kenapa
 numbas : beli
 numpang : menumpang
-
 numpangin : memberikan tumpangan
-
 nunggu : menunggu
 nurun : menurun
 nyaa : nya
@@ -541,12 +486,8 @@ nyalahin : menyalahkan
 nyambung : sambung
 nyangka : sangka
 nyapu : sapu
-
-nyari : cari
-
 nyari : cari
 nyebar : sebar
-
 nyebelin  : kesal
 nyebelinnnnn : sebal
 nyebrang : menyebrang
@@ -562,28 +503,18 @@ nyuruh : suruh
 nyusahin : sulit
 ogah : tidak mau
 ojo : jangan
-
 okeh : oke
-
 omaga : ya tuhan
 omg : ya tuhan
 ono : ada
-
 oon : bodoh
 opinikompas : opini kompas
 orda : ordal
 ortunya : orang tua
 padma : pada
 pakw : pakai
-
 payu : laku
-
 pd : pada
-
-pd  : pada
-
-pda : pada
-
 pda : pada
 pdhl : padahal
 pemerentah : pemerintah
@@ -594,12 +525,11 @@ pengin : ingin
 perna : pernah
 persaingannya : persaingan
 pgn : ingin
-pgn : ingin
 piih : pilih
 pil : pilihan
 pk : memakai
 plis : tolong
-pIs : tolong
+pls : tolong
 pndapat : pendapat
 pndidikan : pendidikan
 pnerimaan : penerimaan
@@ -609,17 +539,12 @@ ponakan : keponakan
 prbatasn : perbatasan
 pride : kebanggaan
 prnah : pernah
-
 pro : setuju
-
 psti : pasti
-
 ptn : perguruan tinggi negeri
 puyeng : pusing
-
 qna : sesi tanya jawab
 rada : seperti
-
 rame : ramai
 raporna : rapot nya
 rapotan : rapot
@@ -627,7 +552,6 @@ ratain : ratakan
 realll : nyata
 ribetnya : sulitnya
 ril : nyata
-
 rmh : rumah
 rodok : sedikit
 rumabnya : rumah
@@ -639,15 +563,13 @@ samain : disetarakan
 samakan : sama
 samaratakan : disetarakan
 sans : santai
-
 sapa : siapa
 sarpras : sarana prasarana
 sbgmn : sebagaimana
-sbim : sebelum
+sblm : sebelum
 scr : secara
 sdg : sedangkan
 sdh : sudah
-
 sebel : kesal
 sebrengsek : kacau
 sedangkanbyg : sedangkan
@@ -656,10 +578,8 @@ segitu : seperti itu
 seingetku : ingat
 sekecamatan : satu kecamatan
 sekelas : kelas
-
 sekilo : satu kilo meter
 sekitr : sekitar
-
 sekola  : sekolah
 sekolaaa : sekolah
 sekolahnya : sekolah
@@ -671,54 +591,36 @@ semudah : mudah
 senangkep : sesuai pengetahuan
 sender : pengirim
 seneng : senang
-
 seng : yang
-
 sepemikiran : satu pikiran
 setaaannnn : kesal
 setauku : saya tahu
 sgra : segera
-
 sialan : kecewa
-
 sialan : kesal
 siapin : menyediakan
 sing : yang
-
 sistim : sistem
-
 skalian : sekalian
 skg : sekarang
-
 sklh : sekolah
-
 skola : sekolah
-
 skrng : sekarang
-
 sma : sekolah menengah atas
 smk : sekolah menengah kejuruan
 smntara : sementara
 smp : sekolah menengah pertama
 smpe : sampai
-
 smpn : sekolah menengah atas negeri
 smua : semua
-
 sndri : sendiri
-
 sodara : saudara
-
 sopo : siapa
-
 sprti : seperti
-
 spt  : seperti
-
 srng : sering
 ssbenernya : sebenarnya
 stuju : setuju
-
 swatsa : swasta
 sy : saya
 taek : kesaltaii : kecewa
@@ -736,22 +638,17 @@ terapin : menerapkan
 terkoplak : lucu
 ternyta : ternyata
 tgl : tanggal
-
 thn : tahun
-
 tiati : hati hati
-
 timses  : tim sukses
 tinggian : tinggi
 tinggl : tinggal
 tks : terima kasih
 tl : laman tweeter
 tlh : telah
-
 tmn : teman
 tmpt : tempat
 tolok : tolak
-
 tolol : bodoh
 tross : terus
 trtntu : tertentu
@@ -766,7 +663,6 @@ ujiannnn : ujian
 ukt : uang kuliah tunggal
 undip : universitas diponegoro
 uner : unair
-
 unt : untuk
 urunan : patungan
 ush : usah
@@ -776,7 +672,6 @@ wakak : tertawa
 walaopun : walaupun
 walmur : wali murid
 wes : sudah
-
 wktu : waktu
 wkwkkw : tertawa
 wkwkw : tertawa
@@ -791,9 +686,7 @@ wkwkwwk : tertawa
 wkwwk : tertawa
 wI : walaupun
 wlpn : walaupun
-
 wtf  : kesal
-
 wtfff : kesal
 yaaaah : kecewa
 yaah : kecewa
@@ -801,7 +694,6 @@ yaallah : ya tuhan
 yakali : yang benar saja
 yaudah : sudah
 yjauh : jauh
-
 yll : yang lalu lalu
 znasi : zonasi
 zonasii : zonasi
