@@ -124,6 +124,7 @@ cmiiw : koreksi saya
 cpd : calon peserta didik
 daftarin : mendaftarkan
 dannmasuk : dan masuk
+dannmau : dan mau
 dapet : dapat
 dapetin : dapat
 dariawal : dari awal
