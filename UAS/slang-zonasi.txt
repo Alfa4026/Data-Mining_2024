@@ -36,6 +36,7 @@ anjing : kesal
 anjinggg : kesal
 anjingggg : kesal
 anjirlah : kaget
+anjir : kecewa
 anjr : kaget
 anjrit : kesal
 ansos : anti sosial
@@ -190,7 +191,7 @@ ente : kamu
 entut : kesal
 eratt : erat
 fault : kesalahan
-fav : favorite
+fav : favorit
 favorite : favorit
 favoritkuu : favoritku
 feel : merasakan
@@ -214,7 +215,7 @@ gebleg : kesal
 gede : besar
 gedean : lebih besar
 gedek : kesal
-gegara : gara gara
+gegara : gara-gara
 gemblung : gila
 gilaaa : gila
 gilak : gila
@@ -231,9 +232,9 @@ goblog : bodoh
 goblok : bodoh
 gonta : mengubah
 gpp : tidak masalah
-gra : gara gara
+gra : gara-gara
 greget : kesal
-grgr : gara gara
+grgr : gara-gara
 grs : garis
 guwah : gw
 gwe : gue
@@ -376,7 +377,7 @@ membtsi : membatasi
 mendingan : lebih baik
 mentereng : bagus
 mentok : dekat
-mentriii : mentri
+mentriii : menteri
 mepet : dekat
 merubah : mengubah
 mess : kacau
